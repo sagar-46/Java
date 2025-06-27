@@ -10,4 +10,4 @@ public class main {
             System.out.println("Even number");
         }
     }
-}
+} 
