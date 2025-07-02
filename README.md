@@ -6,4 +6,5 @@
 5.Count of digits in a number<br>
 6.Sum of digits in a number<br>
 7.Reverse the number<br>
-8.
+8.Finding a raised to power b<b>
+9.
