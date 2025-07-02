@@ -2,4 +2,6 @@
 1.Leap Year <br>
 2.Odd or even using bitwise operator <br>
 3.Factorial <br>
-4.Sum of odd numbers to range
+4.Sum of odd numbers to range<br>
+5.Count of digits in a number<br>
+6.
