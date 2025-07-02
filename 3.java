@@ -4,10 +4,9 @@ public class main {
         Scanner sc = new Scanner(System.in);
         System.out.print("Please enter the number :");
         int num = sc.nextInt();
-        int i = 1, fact = 1;
-        while (i<=num) {
+        int fact = 1;
+        for (int i = 1; i<=n; i++) {
             fact *= i;
-            i++;
         }
         System.out.println(fact);
     }
