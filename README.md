@@ -4,4 +4,5 @@
 3.Factorial <br>
 4.Sum of odd numbers to range<br>
 5.Count of digits in a number<br>
-6.
+6.Sum of digits in a number<br>
+7.
