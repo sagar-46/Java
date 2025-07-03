@@ -8,3 +8,5 @@
 7.Reverse the number<br>
 8.Finding a raised to power b <br>
 9.Conversion of binary to decimal <br>
+10.Converion of decimal to binary <br>
+
