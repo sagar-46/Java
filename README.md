@@ -9,4 +9,5 @@
 8.Finding a raised to power b <br>
 9.Conversion of binary to decimal <br>
 10.Converion of decimal to binary <br>
+11.Arrays <br> 
 
